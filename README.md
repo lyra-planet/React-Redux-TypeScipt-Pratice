@@ -1,6 +1,6 @@
 # React_TypeScript_Redux_Practice
 
-![npm: v8.5.0 (shields.io)](https://img.shields.io/badge/npm-v8.5.0-brightgreen)![npm: v8.5.0 (shields.io)](https://img.shields.io/badge/React-v18.2-blue)![npm: v8.5.0 (shields.io)](https://img.shields.io/badge/Redux-v4.2.0-informational)![npm: v8.5.0 (shields.io)](https://img.shields.io/badge/TypeScript-v4.8.2-9cf)
+![npm: v8.5.0 (shields.io)](https://img.shields.io/badge/npm-v8.5.0-brightgreen)	![npm: v8.5.0 (shields.io)](https://img.shields.io/badge/React-v18.2-blue)	![npm: v8.5.0 (shields.io)](https://img.shields.io/badge/Redux-v4.2.0-informational)	![npm: v8.5.0 (shields.io)](https://img.shields.io/badge/TypeScript-v4.8.2-9cf)
 
 
 
